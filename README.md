@@ -17,14 +17,6 @@ I am a Data Science undergraduate and AI Engineer with a strong focus on compute
 * **Programming:** Python, TypeScript, HTML
 * **Environment:** Jupyter Notebook, Git, Linux
 
-## 💡 How I Contribute
-
-While much of my current code is in private repositories, my core contributions center around:
-* **Research Implementation:** Reproducing state-of-the-art models from academic papers for practical lab use.
-* **AI Orchestration & Planning:** Scoping out AI project requirements and integrating specialized models (like OCR) into larger systems.
-* **Data Pipelines:** Architecting automated systems to scrape, clean, and store unstructured web data for analysis.
-* **Retrieval Systems:** Building efficient multimodal retrieval pipelines for large-scale image and video datasets.
-
 ## 💼 Professional Experience
 * **AI Engineer Intern** @ CoverGo
 * **Research Assistant** @ UTE-AI Lab 
